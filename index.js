@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>Hello everyone from index.js, I'm React :)</h1>, document.querySelector("#root"))
